@@ -1,2 +1,0 @@
-# Jmeter
-Load Test
